@@ -6,7 +6,7 @@ ENT.AutomaticFrameAdvance = true
 function ENT:Initialize()
 	
 	self.ModelString = 'models/maxofs2d/logo_gmod_b.mdl'
-	self.ModelScale = 1
+	self.ModelScale = 0.275
 	self.Particles = ""
 	//self.ArsenalUp = 0
 	self.ArsenalForward = -1
